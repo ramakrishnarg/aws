@@ -12,9 +12,9 @@ import com.amazonaws.services.s3.AmazonS3Client;
 @EnableContextCredentials
 public class Awss3demoApplicationConfig {
 
-	private static final String ACCESS_KEY = "AKIAIJQ7BS53QEP22I4A";
+	private static final String ACCESS_KEY = "AKIAIJQ7BS53QEP22I4AA";
 
-	private static final String SECRET_KEY = "yutZqphZu1TigVEY41W2oER6TUrdnBgy6pwvOFFj";
+	private static final String SECRET_KEY = "yutZqphZu1TigVEY41W2oER6TUrdnBgy6pwvOFFjA";
 
 	public static void main(String[] args) {
 		SpringApplication.run(Awss3demoApplicationConfig.class, args);
